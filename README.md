@@ -1,6 +1,8 @@
 # CASA_GUI
 Compact and Light-Weight Automated Semen Analysis Platform Using Lensfree on-Chip Microscopy
 
+## Installation
+
 Instructions to run the application without setting up the Qt project code.
 1. Download Deployment_executable.zip.
 2. Unzip the file.
@@ -33,3 +35,11 @@ Instructions for local project setup:
 	- fftw-3.3.4-dll64
 10. Make sure the ImageDatasets, Images, TempImages, and TrackCoords folders
 	are all located within the release folder of the main project build directory.
+	
+## Meta
+
+Name – DUCK HA HWANG
+
+## Contributing
+
+1. Fork it (<https://github.com/personableduck>)
